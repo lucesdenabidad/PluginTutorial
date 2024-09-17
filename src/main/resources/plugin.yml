@@ -4,3 +4,5 @@ main: datta.cfd.pluginTutorial.PluginTutorial
 api-version: '1.21'
 authors: [ datta, skibidipapu ]
 description: Plugin tutorial de discord podcast 6.5 papu.
+commands:
+  helloworld:
